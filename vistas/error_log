@@ -1,0 +1,1 @@
+[10-Nov-2020 20:23:05 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'desibhng_cruz'@'localhost' (using password: YES) in /home/desibhng/public_html/SistemaCruz/config/config.php on line 7
